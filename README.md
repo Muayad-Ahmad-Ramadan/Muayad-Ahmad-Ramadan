@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muayad-Ahmad-Ramadan
+- 👋 Hi, I’m Muayad Ahmad Ramadan
 - 👀 I’m interested in A.I.
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on working my master thesis
